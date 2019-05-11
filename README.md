@@ -18,6 +18,30 @@ The tests themselves are intended to chart the territory and no
 fuzzing or other intrusive testing of vulnerabilities are performed. This
 is not Nessus.
 
+Directory layout
+----------------
+
+````
+subjects/
+  <name0>.txt
+  <name1>.txt
+  ...
+  <nameN>.txt
+results/
+  <name0>/
+    ...
+  <name1>/
+    ...
+  ...
+  <nameN>/
+    services.csv - Identified services (think open TCP ports for now)
+    comp.csv     - Passively identified components
+    compsvc.csv  - Components to service mappings
+    certs.csv    - Certificate chain information
+    sans.csv     - X.509v3 Subect Alternative Names found in certificates
+````
+
+
 Why
 ---
 
@@ -28,3 +52,4 @@ various bounties using Graphics(tm) and Visualization(tm) (not included).
 
 If you would like to see any interesting data, have ideas, &c I would love
 some feedback.
+
