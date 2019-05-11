@@ -42,8 +42,8 @@ results/
 ````
 
 
-Why
----
+Why?
+----
 
 This data is provided with the hope that it may be useful to someone.
 
@@ -52,4 +52,11 @@ various bounties using Graphics(tm) and Visualization(tm) (not included).
 
 If you would like to see any interesting data, have ideas, &c I would love
 some feedback.
+
+What is this "machine"?
+-----------------------
+
+It's a side project. It currently looks like this:
+
+![The Machine](service.png)
 
