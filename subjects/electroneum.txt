@@ -1,0 +1,2 @@
+api.electroneum.com
+my.electroneum.com

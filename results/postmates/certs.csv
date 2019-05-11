@@ -1,0 +1,17 @@
+Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
+1,0,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=postmates.com","/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",Nov 23 00:00:00 2018 GMT,Nov 23 12:00:00 2019 GMT,3
+1,1,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root,Oct 14 12:00:00 2015 GMT,Oct  9 12:00:00 2020 GMT,0
+2,0,/C=US/ST=California/L=San Francisco/O=Postmates Inc./CN=i.postmates.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA,Aug 14 00:00:00 2016 GMT,Nov 12 12:00:00 2019 GMT,4
+2,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA,Oct 22 12:00:00 2013 GMT,Oct 22 12:00:00 2028 GMT,0
+3,0,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=postmates.com","/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",Mar 30 00:00:00 2019 GMT,Mar 30 12:00:00 2020 GMT,4
+3,1,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root,Oct 14 12:00:00 2015 GMT,Oct  9 12:00:00 2020 GMT,0
+4,0,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=postmates.com","/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",Oct  1 00:00:00 2018 GMT,Oct  1 12:00:00 2019 GMT,3
+4,1,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root,Oct 14 12:00:00 2015 GMT,Oct  9 12:00:00 2020 GMT,0
+5,0,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=postmates.com","/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",Apr 25 00:00:00 2019 GMT,Apr 25 12:00:00 2020 GMT,3
+5,1,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root,Oct 14 12:00:00 2015 GMT,Oct  9 12:00:00 2020 GMT,0
+6,0,/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=4991235/C=US/ST=California/L=San Francisco/O=Postmates Inc./CN=postmates.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA,Oct 24 00:00:00 2017 GMT,Oct 29 12:00:00 2019 GMT,2
+6,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA,Oct 22 12:00:00 2013 GMT,Oct 22 12:00:00 2028 GMT,0
+7,0,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=postmates.com","/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",Sep  8 00:00:00 2018 GMT,Sep  8 12:00:00 2019 GMT,3
+7,1,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root,Oct 14 12:00:00 2015 GMT,Oct  9 12:00:00 2020 GMT,0
+8,0,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=postmates.com","/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",Feb 11 00:00:00 2019 GMT,Feb 11 12:00:00 2020 GMT,3
+8,1,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root,Oct 14 12:00:00 2015 GMT,Oct  9 12:00:00 2020 GMT,0

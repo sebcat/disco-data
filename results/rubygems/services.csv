@@ -1,0 +1,9 @@
+Service ID,Name,Address,Transport,Port,Service,Certificate Chain
+1,rubygems.org,151.101.0.70,tcp,80,http,
+2,rubygems.org,151.101.0.70,tcp,443,https,1
+3,rubygems.org,151.101.64.70,tcp,80,http,
+4,rubygems.org,151.101.64.70,tcp,443,https,1
+5,rubygems.org,151.101.128.70,tcp,80,http,
+6,rubygems.org,151.101.128.70,tcp,443,https,1
+7,rubygems.org,151.101.192.70,tcp,80,http,
+8,rubygems.org,151.101.192.70,tcp,443,https,1

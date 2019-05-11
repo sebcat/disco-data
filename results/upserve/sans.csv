@@ -1,0 +1,15 @@
+Chain,Depth,Type,Name
+1,0,DNS,*.breadcrumb.com
+1,0,DNS,breadcrumb.com
+2,0,DNS,cloudfront.net
+2,0,DNS,*.cloudfront.net
+3,0,DNS,teamhelp.upserve.com
+3,0,DNS,www.teamhelp.upserve.com
+4,0,DNS,*.s3.amazonaws.com
+4,0,DNS,s3.amazonaws.com
+5,0,DNS,theacademy.upserve.com
+6,0,DNS,*.upserve.com
+6,0,DNS,upserve.com
+7,0,DNS,*.swipely.com
+7,0,DNS,swipely.com
+8,0,DNS,645892349820.vulnerbug.com

@@ -1,0 +1,4 @@
+Chain,Depth,Type,Name
+1,0,DNS,*.souq.com
+1,0,DNS,souq.com
+2,0,DNS,*.souq.com

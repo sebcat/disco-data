@@ -1,0 +1,12 @@
+api.trustpilot.com
+share.trustpilot.com
+emailsignature.trustpilot.com
+signup.business.trustpilot.com
+b2b.trustpilot.com
+widget.trustpilot.com
+locale.trustpilot.com
+www.trustpilot.com
+invitations-api.trustpilot.com
+consumer-auth.trustpilot.com
+authenticate.trustpilot.com
+business.trustpilot.com

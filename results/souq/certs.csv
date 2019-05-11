@@ -1,0 +1,7 @@
+Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
+1,0,/C=AE/ST=Dubai/L=Dubai Internet City/O=Souq.com FZ LLC/OU=IT/CN=*.souq.com,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,Aug 27 00:00:00 2018 GMT,Aug 27 12:00:00 2019 GMT,2
+1,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0
+2,0,/CN=*.souq.com,/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon,Jun 24 00:00:00 2018 GMT,Jul 24 12:00:00 2019 GMT,1
+2,1,/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon,/C=US/O=Amazon/CN=Amazon Root CA 1,Oct 22 00:00:00 2015 GMT,Oct 19 00:00:00 2025 GMT,0
+2,2,/C=US/O=Amazon/CN=Amazon Root CA 1,"/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2",May 25 12:00:00 2015 GMT,Dec 31 01:00:00 2037 GMT,0
+2,3,"/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2","/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority",Sep  2 00:00:00 2009 GMT,Jun 28 17:39:16 2034 GMT,0

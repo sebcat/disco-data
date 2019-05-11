@@ -1,0 +1,9 @@
+Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
+1,0,"/C=US/ST=California/L=Campbell/O=Magento, Inc./CN=imagine.magento.com",/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,Jan 17 00:00:00 2019 GMT,Jul  5 12:00:00 2019 GMT,15
+1,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0
+2,0,"/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=magentocloud2.map.fastly.net",/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3,Jan  8 18:56:16 2019 GMT,Aug  7 16:37:07 2019 GMT,134
+2,1,/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3,/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA,Aug 19 00:00:00 2015 GMT,Aug 19 00:00:00 2025 GMT,0
+3,0,"/C=US/ST=California/L=Campbell/O=Magento, Inc./CN=magento.com",/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,Jun 12 00:00:00 2018 GMT,Jun 12 12:00:00 2019 GMT,12
+3,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0
+4,0,"/C=US/ST=California/L=Campbell/O=Magento, Inc./CN=repo.magento.com",/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,May 10 00:00:00 2018 GMT,Jun 12 12:00:00 2019 GMT,4
+4,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0

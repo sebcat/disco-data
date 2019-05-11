@@ -1,0 +1,16 @@
+hq.breadcrumb.com
+mossy.breadcrumb.com
+ecs-lb.breadcrumb.com
+api.breadcrumb.com
+swipely-merchant-assets.s3.amazonaws.com
+d2evh2mef3r450.cloudfront.net
+payments.upserve.com
+cards.swipely.com
+app.upserve.com
+orders.upserve.com
+pos.swipely.com
+reports.breadcrumb.com
+payments.breadcrumb.com
+teamhelp.upserve.com
+645892349820.vulnerbug.com
+theacademy.upserve.com

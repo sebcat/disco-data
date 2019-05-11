@@ -1,0 +1,5 @@
+Chain,Depth,Type,Name
+1,0,DNS,*.shipt.com
+1,0,DNS,shipt.com
+2,0,DNS,www.shipt.com
+2,0,DNS,shipt.com

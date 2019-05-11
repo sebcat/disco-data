@@ -1,0 +1,11 @@
+staging-api.shipt.com
+shoppingcart.shipt.com
+staging-shoppingcart.shipt.com
+staging-admin.shipt.com
+staging-app.shipt.com
+www.shipt.com
+admin.shipt.com
+shop.shipt.com
+staging-shop.shipt.com
+api.shipt.com
+app.shipt.com

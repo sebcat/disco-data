@@ -1,0 +1,13 @@
+Service ID,Name,Address,Transport,Port,Service,Certificate Chain
+1,api.recarga.com,13.33.47.35,tcp,80,http,
+2,api.recarga.com,13.33.47.35,tcp,443,http,
+3,api.recarga.com,13.33.47.35,tcp,443,https,1
+4,api.recarga.com,13.33.47.39,tcp,80,http,
+5,api.recarga.com,13.33.47.39,tcp,443,http,
+6,api.recarga.com,13.33.47.39,tcp,443,https,1
+7,api.recarga.com,13.33.47.67,tcp,80,http,
+8,api.recarga.com,13.33.47.67,tcp,443,http,
+9,api.recarga.com,13.33.47.67,tcp,443,https,1
+10,api.recarga.com,13.33.47.162,tcp,80,http,
+11,api.recarga.com,13.33.47.162,tcp,443,http,
+12,api.recarga.com,13.33.47.162,tcp,443,https,1

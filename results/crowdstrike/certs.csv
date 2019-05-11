@@ -1,0 +1,5 @@
+Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
+1,0,"/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=5030737/C=US/ST=California/L=Irvine/O=CrowdStrike, Inc./OU=IT/CN=www.crowdstrike.com",/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA,Jun  6 00:00:00 2018 GMT,Jun 24 12:00:00 2020 GMT,6
+1,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA,Oct 22 12:00:00 2013 GMT,Oct 22 12:00:00 2028 GMT,0
+2,0,"/C=US/ST=California/L=Irvine/O=CrowdStrike, Inc./OU=IT/CN=crowdstrike.org",/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA,Nov  2 00:00:00 2017 GMT,Nov  6 12:00:00 2020 GMT,2
+2,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA,Oct 22 12:00:00 2013 GMT,Oct 22 12:00:00 2028 GMT,0

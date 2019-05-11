@@ -1,0 +1,5 @@
+Component ID,Name,Version
+1,nginx/nginx,1.14.2
+2,nginx/nginx,1.14.0
+3,cloudflare/cloudflare,
+4,amazon/cloudfront,

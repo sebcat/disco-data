@@ -1,0 +1,8 @@
+marketplace.magento.com
+repo.magento.com
+magentocommerce.com
+imagine.magento.com
+account.magento.com
+magentolive.com
+u.magento.com
+magento.com

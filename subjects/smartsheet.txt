@@ -1,0 +1,2 @@
+app.smartsheet.com
+api.smartsheet.com

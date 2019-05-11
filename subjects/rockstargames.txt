@@ -1,0 +1,12 @@
+socialclub.rockstargames.com
+support.rockstargames.com
+prod.cloud.rockstargames.com
+patches.rockstargames.com
+media.rockstargames.com
+prod.hosted.cloud.rockstargames.com
+prod.telemetry.ros.rockstargames.com
+prod.conductor.ros.rockstargames.com
+prod.ros.rockstargames.com
+www.rockstargames.com
+lifeinvader.com
+rockstarnorth.com

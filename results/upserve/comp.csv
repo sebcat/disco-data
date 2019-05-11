@@ -1,0 +1,6 @@
+Component ID,Name,Version
+1,amazon/s3,
+2,apache/apache,
+3,php/php,7.0.16
+4,nginx/nginx,
+5,amazon/cloudfront,

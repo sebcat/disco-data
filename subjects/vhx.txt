@@ -1,0 +1,4 @@
+vhx.tv
+www.vhx.tv
+api.vhx.tv
+embed.vhx.tv

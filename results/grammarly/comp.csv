@@ -1,0 +1,9 @@
+Component ID,Name,Version
+1,amazon/awselb,2.0
+2,amazon/s3,
+3,apache/apache,2.4.37
+4,openssl/openssl,1.0.2k-fips
+5,php/php,7.2.16
+6,nginx/nginx,
+7,nginx/nginx,1.12.0
+8,nginx/nginx,1.16.0

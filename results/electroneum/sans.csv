@@ -1,0 +1,4 @@
+Chain,Depth,Type,Name
+1,0,DNS,my.electroneum.com
+2,0,DNS,electroneum.com
+2,0,DNS,*.electroneum.com

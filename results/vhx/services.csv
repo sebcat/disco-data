@@ -1,0 +1,17 @@
+Service ID,Name,Address,Transport,Port,Service,Certificate Chain
+1,www.vhx.tv,23.21.160.199,tcp,80,http,
+2,www.vhx.tv,23.21.160.199,tcp,443,https,2
+3,www.vhx.tv,23.21.247.103,tcp,80,http,
+4,www.vhx.tv,23.21.247.103,tcp,443,https,2
+5,www.vhx.tv,54.225.245.115,tcp,80,http,
+6,www.vhx.tv,54.225.245.115,tcp,443,https,2
+7,vhx.tv,23.21.160.199,tcp,80,http,
+8,vhx.tv,23.21.160.199,tcp,443,https,2
+9,vhx.tv,23.21.247.103,tcp,80,http,
+10,vhx.tv,23.21.247.103,tcp,443,https,2
+11,vhx.tv,54.225.245.115,tcp,80,http,
+12,vhx.tv,54.225.245.115,tcp,443,https,2
+13,embed.vhx.tv,151.101.84.175,tcp,80,http,
+14,embed.vhx.tv,151.101.84.175,tcp,443,https,1
+15,api.vhx.tv,151.101.84.175,tcp,80,http,
+16,api.vhx.tv,151.101.84.175,tcp,443,https,1

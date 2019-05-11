@@ -1,0 +1,5 @@
+Component ID,Name,Version
+1,nginx/nginx,
+2,apache/apache,
+3,amazon/cloudfront,
+4,amazon/s3,

@@ -1,0 +1,8 @@
+postmates.com
+ipa.postmates.com
+buyer-prod.postmates.com
+partner.postmates.com
+fleet.postmates.com
+raster-static.postmates.com
+about.postmates.com
+support.postmates.com

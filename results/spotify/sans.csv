@@ -1,0 +1,11 @@
+Chain,Depth,Type,Name
+1,0,DNS,*.spotify.com
+1,0,DNS,spotify.com
+2,0,DNS,*.spotify.net
+2,0,DNS,spotify.net
+3,0,DNS,www.soundtrap.com
+3,0,DNS,soundtrap.com
+4,0,DNS,*.loudr.fm
+4,0,DNS,loudr.fm
+5,0,DNS,*.spotifyforbrands.com
+5,0,DNS,spotifyforbrands.com

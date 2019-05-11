@@ -1,0 +1,15 @@
+www.counter-strike.net
+help.steampowered.com
+api.steampowered.com
+www.dota2.com
+store.steampowered.com
+steamcommunity.com
+playartifact.com
+partner.steampowered.com
+support.steampowered.com
+www.teamfortress.com
+www.valvesoftware.com
+partner.steamgames.com
+developer.valvesoftware.com
+storefront.steampowered.com
+wiki.teamfortress.com

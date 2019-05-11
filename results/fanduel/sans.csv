@@ -1,0 +1,6 @@
+Chain,Depth,Type,Name
+1,0,DNS,fanduel.com
+1,0,DNS,*.fanduel.com
+1,0,DNS,sportsbook.fanduel.com
+1,0,DNS,*.sportsbook.fanduel.com
+2,0,DNS,fanduel.design

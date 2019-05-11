@@ -1,0 +1,7 @@
+Chain,Depth,Type,Name
+1,0,DNS,*.vimeo.com
+1,0,DNS,vimeo.com
+2,0,DNS,vimeopro.com
+2,0,DNS,www.vimeopro.com
+3,0,DNS,*.vimeo.com
+3,0,DNS,vimeo.com

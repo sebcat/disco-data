@@ -1,0 +1,27 @@
+Service ID,Name,Address,Transport,Port,Service,Certificate Chain
+1,www.rockstargames.com,23.78.59.150,tcp,80,http,
+2,www.rockstargames.com,23.78.59.150,tcp,443,https,2
+3,support.rockstargames.com,23.78.59.150,tcp,80,http,
+4,support.rockstargames.com,23.78.59.150,tcp,443,https,2
+5,socialclub.rockstargames.com,104.255.105.71,tcp,80,http,
+6,socialclub.rockstargames.com,104.255.105.71,tcp,443,https,4
+7,rockstarnorth.com,104.255.105.97,tcp,80,http,
+8,prod.telemetry.ros.rockstargames.com,35.162.243.92,tcp,80,http,
+9,prod.telemetry.ros.rockstargames.com,35.167.19.60,tcp,80,http,
+10,prod.telemetry.ros.rockstargames.com,50.112.144.22,tcp,80,http,
+11,prod.telemetry.ros.rockstargames.com,52.40.235.166,tcp,80,http,
+12,prod.ros.rockstargames.com,192.81.241.100,tcp,80,http,
+13,prod.ros.rockstargames.com,192.81.241.100,tcp,443,https,3
+14,prod.hosted.cloud.rockstargames.com,95.140.228.32,tcp,80,http,
+15,prod.hosted.cloud.rockstargames.com,95.140.228.32,tcp,443,http,
+16,prod.hosted.cloud.rockstargames.com,95.140.228.32,tcp,443,https,1
+17,prod.cloud.rockstargames.com,95.140.228.32,tcp,80,http,
+18,prod.cloud.rockstargames.com,95.140.228.32,tcp,443,http,
+19,prod.cloud.rockstargames.com,95.140.228.32,tcp,443,https,1
+20,patches.rockstargames.com,95.140.228.32,tcp,80,http,
+21,patches.rockstargames.com,95.140.228.32,tcp,443,http,
+22,patches.rockstargames.com,95.140.228.32,tcp,443,https,1
+23,media.rockstargames.com,23.78.59.150,tcp,80,http,
+24,media.rockstargames.com,23.78.59.150,tcp,443,https,2
+25,lifeinvader.com,104.255.105.65,tcp,80,http,
+26,lifeinvader.com,104.255.105.65,tcp,443,https,5

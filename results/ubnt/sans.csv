@@ -1,0 +1,9 @@
+Chain,Depth,Type,Name
+1,0,DNS,ui.com
+1,0,DNS,*.ui.com
+1,0,DNS,ubnt.com
+1,0,DNS,*.ubnt.com
+1,0,DNS,uwn.com
+1,0,DNS,*.uwn.com
+1,0,DNS,goubiquiti.com
+1,0,DNS,*.goubiquiti.com

@@ -1,0 +1,11 @@
+Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
+1,0,"/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=4566980/C=US/ST=California/L=San Francisco/O=Airbnb, Inc./CN=www.airbnb.com",/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA,May 31 00:00:00 2018 GMT,Jun  4 12:00:00 2020 GMT,22
+1,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA,Oct 22 12:00:00 2013 GMT,Oct 22 12:00:00 2028 GMT,0
+2,0,"/C=US/ST=California/L=San Francisco/O=Airbnb, Inc./CN=airbnb.com",/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,Jan 20 00:00:00 2017 GMT,Jan 29 12:00:00 2020 GMT,42
+2,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0
+3,0,"/C=US/ST=California/L=San Francisco/O=Airbnb, Inc./CN=*.luxuryretreats.com",/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,Dec  6 00:00:00 2018 GMT,Dec 10 12:00:00 2019 GMT,4
+3,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0
+4,0,"/C=US/ST=California/L=San Francisco/O=Airbnb, Inc./CN=*.airbnb.com",/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2,Jun 20 21:06:11 2018 GMT,Jun 20 21:06:11 2020 GMT,11
+4,1,/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2,/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA,Feb 20 10:00:00 2014 GMT,Feb 20 10:00:00 2024 GMT,0
+5,0,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=airbnbcitizen.com","/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",Sep 30 00:00:00 2018 GMT,Sep 30 12:00:00 2019 GMT,2
+5,1,"/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2",/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root,Oct 14 12:00:00 2015 GMT,Oct  9 12:00:00 2020 GMT,0

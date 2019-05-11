@@ -1,0 +1,3 @@
+Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
+1,0,"/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=l.ssl.fastly.net",/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2,Apr 13 18:39:09 2018 GMT,Jun 11 18:15:41 2020 GMT,102
+1,1,/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2,/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA,Feb 20 10:00:00 2014 GMT,Feb 20 10:00:00 2024 GMT,0

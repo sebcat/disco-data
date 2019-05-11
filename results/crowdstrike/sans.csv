@@ -1,0 +1,9 @@
+Chain,Depth,Type,Name
+1,0,DNS,www.crowdstrike.com
+1,0,DNS,press.crowdstrike.com
+1,0,DNS,blog.crowdstrike.com
+1,0,DNS,resources.crowdstrike.com
+1,0,DNS,crowdstrike.com
+1,0,DNS,cs-staging-www.crowdstrike.com
+2,0,DNS,crowdstrike.org
+2,0,DNS,www.crowdstrike.org

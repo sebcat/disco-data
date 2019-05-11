@@ -1,0 +1,5 @@
+Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
+1,0,/CN=*.shipt.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018,Jul 18 00:00:00 2018 GMT,Oct  4 12:00:00 2019 GMT,2
+1,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Nov  6 12:23:33 2017 GMT,Nov  6 12:23:33 2027 GMT,0
+2,0,/CN=www.shipt.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018,Jun 19 00:00:00 2018 GMT,Jul 19 12:00:00 2019 GMT,2
+2,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Nov  6 12:23:33 2017 GMT,Nov  6 12:23:33 2027 GMT,0

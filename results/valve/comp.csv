@@ -1,0 +1,9 @@
+Component ID,Name,Version
+1,nginx/nginx,
+2,apache/apache,
+3,apache/apache,2.4.25
+4,debian/debian,
+5,akamai/ghost,
+6,nginx/nginx,1.4.6
+7,canonical/ubuntu,
+8,php/php,7.0.33
