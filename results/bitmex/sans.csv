@@ -1,6 +1,6 @@
 Chain,Depth,Type,Name
+1,0,DNS,www.bitmex.com
+1,0,DNS,www2.bitmex.com
 1,0,DNS,bitmex.com
-2,0,DNS,www.bitmex.com
-2,0,DNS,www2.bitmex.com
-2,0,DNS,bitmex.com
-3,0,DNS,public.bitmex.com
+2,0,DNS,public.bitmex.com
+3,0,DNS,bitmex.com

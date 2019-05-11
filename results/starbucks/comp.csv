@@ -4,10 +4,9 @@ Component ID,Name,Version
 3,apache/apache,2.4.6
 4,openssl/openssl,1.0.2k-fips
 5,php/php,7.1.28
-6,php/php,7.1.24
+6,apache/apache,
 7,amazon/awselb,2.0
-8,apache/apache,
-9,nginx/nginx,
-10,amazon/s3,
-11,nginx/nginx,1.12.2
-12,php/php,5.4.16
+8,nginx/nginx,
+9,amazon/s3,
+10,nginx/nginx,1.12.2
+11,php/php,5.4.16

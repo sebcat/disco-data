@@ -1,10 +1,10 @@
 Service ID,Name,Address,Transport,Port,Service,Certificate Chain
 1,www.creditkarma.com,88.221.96.173,tcp,80,http,
-2,www.creditkarma.com,88.221.96.173,tcp,443,https,2
-3,www.creditkarma.ca,95.100.12.201,tcp,80,http,
-4,www.creditkarma.ca,95.100.12.201,tcp,443,https,7
-5,tax.creditkarma.com,23.43.139.41,tcp,80,http,
-6,tax.creditkarma.com,23.43.139.41,tcp,443,https,1
+2,www.creditkarma.com,88.221.96.173,tcp,443,https,3
+3,www.creditkarma.ca,23.61.215.45,tcp,80,http,
+4,www.creditkarma.ca,23.61.215.45,tcp,443,https,2
+5,tax.creditkarma.com,23.61.241.49,tcp,80,http,
+6,tax.creditkarma.com,23.61.241.49,tcp,443,https,4
 7,help.creditkarma.com,104.16.51.111,tcp,80,http,
 8,help.creditkarma.com,104.16.51.111,tcp,443,http,
 9,help.creditkarma.com,104.16.51.111,tcp,443,https,6
@@ -30,12 +30,12 @@ Service ID,Name,Address,Transport,Port,Service,Certificate Chain
 29,help.creditkarma.com,104.16.55.111,tcp,443,https,6
 30,help.creditkarma.com,104.16.55.111,tcp,8080,unknown,
 31,help.creditkarma.com,104.16.55.111,tcp,8443,unknown,6
-32,creditkarma.com,104.122.220.208,tcp,80,http,
-33,creditkarma.com,104.122.220.208,tcp,443,https,2
+32,creditkarma.com,23.14.1.97,tcp,80,http,
+33,creditkarma.com,23.14.1.97,tcp,443,https,3
 34,blog.creditkarma.com,192.0.66.2,tcp,80,http,
 35,blog.creditkarma.com,192.0.66.2,tcp,443,http,
-36,blog.creditkarma.com,192.0.66.2,tcp,443,https,4
+36,blog.creditkarma.com,192.0.66.2,tcp,443,https,7
 37,api.creditkarma.com,2.16.68.79,tcp,80,http,
-38,api.creditkarma.com,2.16.68.79,tcp,443,https,3
-39,accounts.creditkarma.com,23.43.130.95,tcp,80,http,
-40,accounts.creditkarma.com,23.43.130.95,tcp,443,https,5
+38,api.creditkarma.com,2.16.68.79,tcp,443,https,5
+39,accounts.creditkarma.com,23.61.243.230,tcp,80,http,
+40,accounts.creditkarma.com,23.61.243.230,tcp,443,https,1

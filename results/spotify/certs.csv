@@ -1,10 +1,10 @@
 Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
-1,0,/C=SE/L=Stockholm/O=Spotify AB/CN=*.spotify.com,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,May 16 00:00:00 2017 GMT,Jul 29 12:00:00 2020 GMT,2
+1,0,/C=SE/L=Stockholm/O=Spotify AB/CN=*.spotify.net,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,May 16 00:00:00 2017 GMT,Jul 29 12:00:00 2020 GMT,2
 1,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0
-2,0,/C=SE/L=Stockholm/O=Spotify AB/CN=*.spotify.net,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,May 16 00:00:00 2017 GMT,Jul 29 12:00:00 2020 GMT,2
-2,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0
-3,0,/C=SE/L=Stockholm/O=Soundtrap AB/CN=www.soundtrap.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018,Aug 13 00:00:00 2018 GMT,Nov 15 00:00:00 2020 GMT,2
-3,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Nov  6 12:23:45 2017 GMT,Nov  6 12:23:45 2027 GMT,0
+2,0,/C=SE/L=Stockholm/O=Soundtrap AB/CN=www.soundtrap.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018,Aug 13 00:00:00 2018 GMT,Nov 15 00:00:00 2020 GMT,2
+2,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Nov  6 12:23:45 2017 GMT,Nov  6 12:23:45 2027 GMT,0
+3,0,/C=SE/L=Stockholm/O=Spotify AB/CN=*.spotify.com,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,May 16 00:00:00 2017 GMT,Jul 29 12:00:00 2020 GMT,2
+3,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0
 4,0,/C=SE/L=Stockholm/O=Spotify AB/CN=*.loudr.fm,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,Dec  5 00:00:00 2018 GMT,Dec  9 12:00:00 2020 GMT,2
 4,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0
 5,0,/C=SE/L=Stockholm/O=Spotify AB/CN=*.spotifyforbrands.com,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,Oct 23 00:00:00 2018 GMT,Oct 27 12:00:00 2020 GMT,2

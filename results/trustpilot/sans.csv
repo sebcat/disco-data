@@ -1,9 +1,9 @@
 Chain,Depth,Type,Name
 1,0,DNS,*.trustpilot.com
 1,0,DNS,trustpilot.com
-2,0,DNS,api.trustpilot.com
-2,0,DNS,invitations-api.trustpilot.com
-3,0,DNS,*.trustpilot.com
-3,0,DNS,trustpilot.com
-4,0,DNS,*.business.trustpilot.com
-4,0,DNS,business.trustpilot.com
+2,0,DNS,*.business.trustpilot.com
+2,0,DNS,business.trustpilot.com
+3,0,DNS,api.trustpilot.com
+3,0,DNS,invitations-api.trustpilot.com
+4,0,DNS,*.trustpilot.com
+4,0,DNS,trustpilot.com

@@ -2,10 +2,10 @@ Chain,Depth,Type,Name
 1,0,DNS,production.plaid.com
 1,0,DNS,production2.plaid.com
 1,0,DNS,api.plaid.com
-2,0,DNS,plaid.com
-2,0,DNS,dashboard.plaid.com
-2,0,DNS,www.plaid.com
-2,0,DNS,my.plaid.com
-3,0,DNS,cdn.plaid.com
+2,0,DNS,cdn.plaid.com
+3,0,DNS,plaid.com
+3,0,DNS,dashboard.plaid.com
+3,0,DNS,www.plaid.com
+3,0,DNS,my.plaid.com
 4,0,DNS,*.plaid.com
 4,0,DNS,plaid.com

@@ -1,6 +1,5 @@
 Chain,Depth,Type,Name
-1,0,DNS,tronscan.org
-1,0,DNS,www.tronscan.org
+1,0,DNS,dapp.tron.network
 2,0,DNS,sni64554.cloudflaressl.com
 2,0,DNS,*.30moyu.com
 2,0,DNS,*.akeseziyi.tk
@@ -76,6 +75,7 @@ Chain,Depth,Type,Name
 2,0,DNS,tronscan.org
 2,0,DNS,ylaurenxkrahamaaleexandrnas.tk
 2,0,DNS,zabumba.net
-3,0,DNS,dapp.tron.network
-4,0,DNS,tron.network
-4,0,DNS,www.tron.network
+3,0,DNS,tron.network
+3,0,DNS,www.tron.network
+4,0,DNS,tronscan.org
+4,0,DNS,www.tronscan.org

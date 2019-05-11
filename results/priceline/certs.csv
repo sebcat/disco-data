@@ -5,7 +5,7 @@ Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
 2,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte TLS RSA CA G1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2,Nov  2 12:24:25 2017 GMT,Nov  2 12:24:25 2027 GMT,0
 3,0,"/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=priceline.map.fastly.net",/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3,Jan 28 22:40:15 2019 GMT,Aug 11 18:33:23 2019 GMT,5
 3,1,/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3,/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA,Aug 19 00:00:00 2015 GMT,Aug 19 00:00:00 2025 GMT,0
-4,0,/CN=cruises.priceline.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018,Feb 13 00:00:00 2018 GMT,Aug 19 12:00:00 2019 GMT,1
+4,0,/CN=www.bookingholdings.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018,Feb 12 00:00:00 2018 GMT,Feb 12 12:00:00 2020 GMT,2
 4,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Nov  6 12:23:45 2017 GMT,Nov  6 12:23:45 2027 GMT,0
-5,0,/CN=www.bookingholdings.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018,Feb 12 00:00:00 2018 GMT,Feb 12 12:00:00 2020 GMT,2
+5,0,/CN=cruises.priceline.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018,Feb 13 00:00:00 2018 GMT,Aug 19 12:00:00 2019 GMT,1
 5,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Nov  6 12:23:45 2017 GMT,Nov  6 12:23:45 2027 GMT,0

@@ -70,9 +70,9 @@ Chain,Depth,Type,Name
 2,0,DNS,stage-cert-gamedownloads.rockstargames.com
 2,0,DNS,stage-dev-gamedownloads.rockstargames.com
 2,0,DNS,stage-prod-gamedownloads.rockstargames.com
-3,0,DNS,*.ros.rockstargames.com
-3,0,DNS,ros.rockstargames.com
+3,0,DNS,www.lifeinvader.com
+3,0,DNS,lifeinvader.com
 4,0,DNS,socialclub.rockstargames.com
 4,0,DNS,www.socialclub.rockstargames.com
-5,0,DNS,www.lifeinvader.com
-5,0,DNS,lifeinvader.com
+5,0,DNS,*.ros.rockstargames.com
+5,0,DNS,ros.rockstargames.com
