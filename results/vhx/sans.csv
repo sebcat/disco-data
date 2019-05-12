@@ -1,7 +1,7 @@
 SAN
-*.c.ssl.fastly.net
 *.beamly.com
 *.blendle.nl
+*.c.ssl.fastly.net
 *.ibmserviceengage.com
 *.innogamescdn.com
 *.krux.com
@@ -24,6 +24,7 @@ api.keep.com
 assets.trabiancdn.com
 ast1.r10.io
 blendle.nl
+c.ssl.fastly.net
 cdn.brandisty.com
 cdn.evbuc.com
 images.rakuten.com
@@ -37,7 +38,6 @@ s.t.st
 scribd.com
 secure.lessthan3.com
 udemy.com
+vhx.tv
 www.dwin1.com
 www.piriform.com
-c.ssl.fastly.net
-vhx.tv

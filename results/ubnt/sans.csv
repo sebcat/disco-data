@@ -1,9 +1,9 @@
 SAN
-ui.com
-*.ui.com
-ubnt.com
+*.goubiquiti.com
 *.ubnt.com
-uwn.com
+*.ui.com
 *.uwn.com
 goubiquiti.com
-*.goubiquiti.com
+ubnt.com
+ui.com
+uwn.com

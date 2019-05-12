@@ -1,5 +1,4 @@
 SAN
-livestream.map.fastly.net
 *.api.livestream.com
 *.cdn.vimeo.tv
 *.dev.lsops.org
@@ -11,6 +10,7 @@ livestream.map.fastly.net
 *.twitcam.com
 getmevo.com
 livestream.com
+livestream.map.fastly.net
 livestreamapis.com
 livestreamstudio.net
 twitcam.com

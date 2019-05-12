@@ -1,7 +1,7 @@
 SAN
-*.trustpilot.com
-trustpilot.com
 *.business.trustpilot.com
-business.trustpilot.com
+*.trustpilot.com
 api.trustpilot.com
+business.trustpilot.com
 invitations-api.trustpilot.com
+trustpilot.com

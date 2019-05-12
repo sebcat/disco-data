@@ -1,5 +1,4 @@
 SAN
-z.ssl.fastly.net
 *.belk.com
 *.belkdev.com
 *.belkperf.com
@@ -72,6 +71,7 @@ robertwalters.pt
 robertwaltersafrica.com
 shoebacca.com
 slate.com
+ssl565691.cloudflaressl.com
 tikibrand.com
 vcl.casper.tools
 www.homewetbar.com
@@ -104,4 +104,4 @@ www.robertwalters.nl
 www.robertwalters.pt
 www.robertwaltersafrica.com
 www.tutor2u.net
-ssl565691.cloudflaressl.com
+z.ssl.fastly.net

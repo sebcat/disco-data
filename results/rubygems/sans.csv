@@ -1,5 +1,4 @@
 SAN
-l.ssl.fastly.net
 *.answersingenesis.co.uk
 *.answersingenesis.org
 *.arkencounter.com
@@ -24,6 +23,7 @@ l.ssl.fastly.net
 *.letemps.ch
 *.mybestegg.com
 *.nfl.com
+*.nymag.com
 *.patch.com
 *.pebble.com
 *.pottermore.com
@@ -60,6 +60,7 @@ full30.com
 funker530.com
 givingtuesday.givegab.com
 knnlab.com
+l.ssl.fastly.net
 media.barfoot.co.nz
 media.rightmove.co.uk
 merryjane.com
@@ -67,7 +68,6 @@ mighty-flowers-420.merryjane.com
 nextgen-assets.edmunds-media.com
 noembed.com
 nymag.com
-*.nymag.com
 patch.com
 pebble.com
 portal-qa.fundpaas.com

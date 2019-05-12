@@ -1,10 +1,10 @@
 SAN
-production.plaid.com
-production2.plaid.com
+*.plaid.com
 api.plaid.com
 cdn.plaid.com
-plaid.com
 dashboard.plaid.com
-www.plaid.com
 my.plaid.com
-*.plaid.com
+plaid.com
+production.plaid.com
+production2.plaid.com
+www.plaid.com

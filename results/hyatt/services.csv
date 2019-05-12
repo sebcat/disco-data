@@ -1,9 +1,9 @@
 Host,Address,Transport,Port,Service
-assets.hyatt.com,23.78.33.215,tcp,80,http
-assets.hyatt.com,23.78.33.215,tcp,443,https
+assets.hyatt.com,2.17.160.242,tcp,80,http
+assets.hyatt.com,2.17.160.242,tcp,443,https
 hyatt.com,140.95.207.100,tcp,80,http
 hyatt.com,140.95.207.100,tcp,443,https
-world.hyatt.com,23.78.51.161,tcp,80,http
-world.hyatt.com,23.78.51.161,tcp,443,https
-www.hyatt.com,23.78.51.161,tcp,80,http
-www.hyatt.com,23.78.51.161,tcp,443,https
+world.hyatt.com,2.17.161.39,tcp,80,http
+world.hyatt.com,2.17.161.39,tcp,443,https
+www.hyatt.com,2.17.161.39,tcp,80,http
+www.hyatt.com,2.17.161.39,tcp,443,https

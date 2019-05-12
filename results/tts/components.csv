@@ -1,4 +1,12 @@
 Host,Address,Transport,Port,Service,Component,Version
+18f.gsa.gov,13.33.47.39,tcp,80,http,amazon/cloudfront,
+18f.gsa.gov,13.33.47.39,tcp,443,http,amazon/cloudfront,
+18f.gsa.gov,13.33.47.123,tcp,80,http,amazon/cloudfront,
+18f.gsa.gov,13.33.47.123,tcp,443,http,amazon/cloudfront,
+18f.gsa.gov,13.33.47.220,tcp,80,http,amazon/cloudfront,
+18f.gsa.gov,13.33.47.220,tcp,443,http,amazon/cloudfront,
+18f.gsa.gov,13.33.47.226,tcp,80,http,amazon/cloudfront,
+18f.gsa.gov,13.33.47.226,tcp,443,http,amazon/cloudfront,
 account.fr.cloud.gov,96.127.59.2,tcp,443,http,amazon/awselb,2.0
 account.fr.cloud.gov,160.1.59.86,tcp,443,http,amazon/awselb,2.0
 admin-catalog-bsp.data.gov,34.193.244.109,tcp,443,https,apache/apache,
@@ -44,8 +52,8 @@ federalist-docs.18f.gov,13.33.47.64,tcp,80,http,amazon/cloudfront,
 federalist-docs.18f.gov,13.33.47.64,tcp,443,http,amazon/cloudfront,
 federalist-docs.18f.gov,13.33.47.84,tcp,80,http,amazon/cloudfront,
 federalist-docs.18f.gov,13.33.47.84,tcp,443,http,amazon/cloudfront,
-federalist-proxy.app.cloud.gov,52.61.152.55,tcp,443,http,amazon/awselb,2.0
-federalist-proxy.app.cloud.gov,96.127.80.9,tcp,443,http,amazon/awselb,2.0
+federalist-proxy.app.cloud.gov,52.222.90.14,tcp,443,http,amazon/awselb,2.0
+federalist-proxy.app.cloud.gov,96.127.61.41,tcp,443,http,amazon/awselb,2.0
 federalist.18f.gov,13.33.47.137,tcp,80,http,amazon/cloudfront,
 federalist.18f.gov,13.33.47.137,tcp,443,http,amazon/cloudfront,
 federalist.18f.gov,13.33.47.185,tcp,80,http,amazon/cloudfront,
@@ -57,6 +65,7 @@ federalist.18f.gov,13.33.47.242,tcp,443,http,amazon/cloudfront,
 federation.data.gov,34.193.244.109,tcp,443,https,amazon/s3,
 idp.fr.cloud.gov,52.61.25.149,tcp,443,http,amazon/awselb,2.0
 idp.fr.cloud.gov,52.61.90.240,tcp,443,http,amazon/awselb,2.0
+inventory.data.gov,34.193.244.109,tcp,443,https,apache/apache,
 login.fr.cloud.gov,96.127.59.2,tcp,443,http,amazon/awselb,2.0
 login.fr.cloud.gov,160.1.59.86,tcp,443,http,amazon/awselb,2.0
 login.gov,13.33.47.156,tcp,80,http,amazon/cloudfront,
@@ -81,6 +90,14 @@ vote.gov,13.33.47.185,tcp,80,http,amazon/cloudfront,
 vote.gov,13.33.47.185,tcp,443,http,amazon/cloudfront,
 vote.gov,13.33.47.228,tcp,80,http,amazon/cloudfront,
 vote.gov,13.33.47.228,tcp,443,http,amazon/cloudfront,
+www.data.gov,13.33.47.5,tcp,80,http,amazon/cloudfront,
+www.data.gov,13.33.47.5,tcp,443,http,amazon/cloudfront,
+www.data.gov,13.33.47.131,tcp,80,http,amazon/cloudfront,
+www.data.gov,13.33.47.131,tcp,443,http,amazon/cloudfront,
+www.data.gov,13.33.47.144,tcp,80,http,amazon/cloudfront,
+www.data.gov,13.33.47.144,tcp,443,http,amazon/cloudfront,
+www.data.gov,13.33.47.152,tcp,80,http,amazon/cloudfront,
+www.data.gov,13.33.47.152,tcp,443,http,amazon/cloudfront,
 www.login.gov,13.33.47.156,tcp,80,http,amazon/cloudfront,
 www.login.gov,13.33.47.156,tcp,443,http,amazon/cloudfront,
 www.login.gov,13.33.47.193,tcp,80,http,amazon/cloudfront,
