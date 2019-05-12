@@ -1,6 +1,6 @@
-Service ID,Name,Address,Transport,Port,Service,Certificate Chain
-1,www.mapbox.com,151.101.84.143,tcp,80,http,
-2,www.mapbox.com,151.101.84.143,tcp,443,https,2
-3,api.mapbox.com,13.33.16.106,tcp,80,http,
-4,api.mapbox.com,13.33.16.106,tcp,443,http,
-5,api.mapbox.com,13.33.16.106,tcp,443,https,1
+Host,Address,Transport,Port,Service
+api.mapbox.com,13.33.16.106,tcp,80,http
+api.mapbox.com,13.33.16.106,tcp,443,http
+api.mapbox.com,13.33.16.106,tcp,443,https
+www.mapbox.com,151.101.84.143,tcp,80,http
+www.mapbox.com,151.101.84.143,tcp,443,https

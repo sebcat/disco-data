@@ -1,0 +1,11 @@
+Host,Address,Transport,Port,Service,Component,Version
+saudi.souq.com,23.78.39.151,tcp,443,https,apache/apache,
+sell.souq.com,54.76.196.223,tcp,80,http,apache/apache,
+sell.souq.com,54.76.196.223,tcp,443,http,amazon/awselb,2.0
+sell.souq.com,54.76.196.223,tcp,443,https,apache/apache,
+sell.souq.com,54.194.24.212,tcp,80,http,apache/apache,
+sell.souq.com,54.194.24.212,tcp,443,http,amazon/awselb,2.0
+sell.souq.com,54.194.24.212,tcp,443,https,apache/apache,
+sell.souq.com,54.194.202.141,tcp,80,http,apache/apache,
+sell.souq.com,54.194.202.141,tcp,443,http,amazon/awselb,2.0
+sell.souq.com,54.194.202.141,tcp,443,https,apache/apache,

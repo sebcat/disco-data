@@ -1,0 +1,13 @@
+Host,Address,Transport,Port,Service,Component,Version
+api.recarga.com,13.33.47.35,tcp,80,http,amazon/cloudfront,
+api.recarga.com,13.33.47.35,tcp,443,http,amazon/cloudfront,
+api.recarga.com,13.33.47.35,tcp,443,https,apache/apache,
+api.recarga.com,13.33.47.39,tcp,80,http,amazon/cloudfront,
+api.recarga.com,13.33.47.39,tcp,443,http,amazon/cloudfront,
+api.recarga.com,13.33.47.39,tcp,443,https,apache/apache,
+api.recarga.com,13.33.47.67,tcp,80,http,amazon/cloudfront,
+api.recarga.com,13.33.47.67,tcp,443,http,amazon/cloudfront,
+api.recarga.com,13.33.47.67,tcp,443,https,apache/apache,
+api.recarga.com,13.33.47.162,tcp,80,http,amazon/cloudfront,
+api.recarga.com,13.33.47.162,tcp,443,http,amazon/cloudfront,
+api.recarga.com,13.33.47.162,tcp,443,https,apache/apache,

@@ -1,5 +1,5 @@
-Chain,Depth,Type,Name
-1,0,DNS,app.smartsheet.com
-1,0,DNS,s.smartsheet.com
-1,0,DNS,smartsheet.com
-2,0,DNS,api.smartsheet.com
+SAN
+app.smartsheet.com
+s.smartsheet.com
+smartsheet.com
+api.smartsheet.com

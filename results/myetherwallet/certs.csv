@@ -1,3 +1,0 @@
-Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
-1,0,/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=California/serialNumber=C4117743/C=US/ST=California/L=Los Angeles/O=MyEtherWallet Inc/CN=www.myetherwallet.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA,Feb  6 00:00:00 2019 GMT,May  8 12:00:00 2020 GMT,5
-1,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA,Oct 22 12:00:00 2013 GMT,Oct 22 12:00:00 2028 GMT,0

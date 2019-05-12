@@ -1,9 +1,9 @@
-Service ID,Name,Address,Transport,Port,Service,Certificate Chain
-1,www.hyatt.com,23.78.51.161,tcp,80,http,
-2,www.hyatt.com,23.78.51.161,tcp,443,https,1
-3,world.hyatt.com,23.78.51.161,tcp,80,http,
-4,world.hyatt.com,23.78.51.161,tcp,443,https,1
-5,hyatt.com,140.95.207.100,tcp,80,http,
-6,hyatt.com,140.95.207.100,tcp,443,https,2
-7,assets.hyatt.com,23.78.33.215,tcp,80,http,
-8,assets.hyatt.com,23.78.33.215,tcp,443,https,3
+Host,Address,Transport,Port,Service
+assets.hyatt.com,23.78.33.215,tcp,80,http
+assets.hyatt.com,23.78.33.215,tcp,443,https
+hyatt.com,140.95.207.100,tcp,80,http
+hyatt.com,140.95.207.100,tcp,443,https
+world.hyatt.com,23.78.51.161,tcp,80,http
+world.hyatt.com,23.78.51.161,tcp,443,https
+www.hyatt.com,23.78.51.161,tcp,80,http
+www.hyatt.com,23.78.51.161,tcp,443,https

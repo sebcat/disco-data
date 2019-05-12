@@ -1,5 +1,0 @@
-Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
-1,0,"/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=livestream.map.fastly.net",/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3,Apr 10 21:27:08 2019 GMT,Oct 27 03:19:40 2019 GMT,15
-1,1,/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3,/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA,Aug 19 00:00:00 2015 GMT,Aug 19 00:00:00 2025 GMT,0
-2,0,/C=US/ST=New York/L=Brooklyn/O=Livestream LLC/OU=Livestream Site Reliability Engineering/CN=*.livestream.com,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,Jul 10 00:00:00 2018 GMT,Jul 14 12:00:00 2020 GMT,2
-2,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0

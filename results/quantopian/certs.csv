@@ -1,6 +1,0 @@
-Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
-1,0,/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl377536.cloudflaressl.com,/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2,Mar 20 00:00:00 2019 GMT,Sep 26 23:59:59 2019 GMT,33
-1,1,/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2,/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority,Sep 25 00:00:00 2014 GMT,Sep 24 23:59:59 2029 GMT,0
-1,2,/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority,/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root,May 30 10:48:38 2000 GMT,May 30 10:48:38 2020 GMT,0
-2,0,/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=5013521/C=US/ST=Massachusetts/L=Boston/O=Quantopian Inc./CN=quantopian.com,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA,Jul  5 00:00:00 2018 GMT,Nov 16 12:00:00 2019 GMT,9
-2,1,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA,Oct 22 12:00:00 2013 GMT,Oct 22 12:00:00 2028 GMT,0

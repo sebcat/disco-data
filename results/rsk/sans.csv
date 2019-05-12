@@ -1,2 +1,2 @@
-Chain,Depth,Type,Name
-1,0,DNS,*.rsk.co
+SAN
+*.rsk.co

@@ -1,7 +1,0 @@
-Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
-1,0,"/C=US/ST=New York/L=New York/O=Vimeo, LLC/CN=*.vimeo.com",/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,Aug 24 00:00:00 2018 GMT,Apr  2 12:00:00 2020 GMT,2
-1,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0
-2,0,"/C=US/ST=New York/L=New York/O=Vimeo, LLC/CN=*.vimeo.com",/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,Dec 11 00:00:00 2017 GMT,Mar 20 12:00:00 2020 GMT,2
-2,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0
-3,0,"/C=US/ST=New York/L=New York/O=Vimeo, Inc./CN=vimeopro.com",/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,Jul 11 00:00:00 2017 GMT,Jul 29 12:00:00 2020 GMT,2
-3,1,/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA,/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA,Mar  8 12:00:00 2013 GMT,Mar  8 12:00:00 2023 GMT,0

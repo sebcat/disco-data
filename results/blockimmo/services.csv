@@ -1,13 +1,13 @@
-Service ID,Name,Address,Transport,Port,Service,Certificate Chain
-1,blockimmo.ch,13.33.47.25,tcp,80,http,
-2,blockimmo.ch,13.33.47.25,tcp,443,http,
-3,blockimmo.ch,13.33.47.25,tcp,443,https,1
-4,blockimmo.ch,13.33.47.52,tcp,80,http,
-5,blockimmo.ch,13.33.47.52,tcp,443,http,
-6,blockimmo.ch,13.33.47.52,tcp,443,https,1
-7,blockimmo.ch,13.33.47.152,tcp,80,http,
-8,blockimmo.ch,13.33.47.152,tcp,443,http,
-9,blockimmo.ch,13.33.47.152,tcp,443,https,1
-10,blockimmo.ch,13.33.47.222,tcp,80,http,
-11,blockimmo.ch,13.33.47.222,tcp,443,http,
-12,blockimmo.ch,13.33.47.222,tcp,443,https,1
+Host,Address,Transport,Port,Service
+blockimmo.ch,13.33.47.25,tcp,80,http
+blockimmo.ch,13.33.47.25,tcp,443,http
+blockimmo.ch,13.33.47.25,tcp,443,https
+blockimmo.ch,13.33.47.52,tcp,80,http
+blockimmo.ch,13.33.47.52,tcp,443,http
+blockimmo.ch,13.33.47.52,tcp,443,https
+blockimmo.ch,13.33.47.152,tcp,80,http
+blockimmo.ch,13.33.47.152,tcp,443,http
+blockimmo.ch,13.33.47.152,tcp,443,https
+blockimmo.ch,13.33.47.222,tcp,80,http
+blockimmo.ch,13.33.47.222,tcp,443,http
+blockimmo.ch,13.33.47.222,tcp,443,https

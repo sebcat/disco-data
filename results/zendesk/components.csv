@@ -1,0 +1,10 @@
+Host,Address,Transport,Port,Service,Component,Version
+h1-your-domain.zendesk.com,34.206.241.1,tcp,80,http,nginx/nginx,
+h1-your-domain.zendesk.com,34.206.241.1,tcp,443,http,nginx/nginx,
+h1-your-domain.zendesk.com,34.206.241.1,tcp,443,https,nginx/nginx,
+h1-your-domain.zendesk.com,34.225.199.37,tcp,80,http,nginx/nginx,
+h1-your-domain.zendesk.com,34.225.199.37,tcp,443,http,nginx/nginx,
+h1-your-domain.zendesk.com,34.225.199.37,tcp,443,https,nginx/nginx,
+h1-your-domain.zendesk.com,54.172.126.223,tcp,80,http,nginx/nginx,
+h1-your-domain.zendesk.com,54.172.126.223,tcp,443,http,nginx/nginx,
+h1-your-domain.zendesk.com,54.172.126.223,tcp,443,https,nginx/nginx,

@@ -1,10 +1,10 @@
-Service ID,Name,Address,Transport,Port,Service,Certificate Chain
-1,h1-your-domain.zendesk.com,34.206.241.1,tcp,80,http,
-2,h1-your-domain.zendesk.com,34.206.241.1,tcp,443,http,
-3,h1-your-domain.zendesk.com,34.206.241.1,tcp,443,https,1
-4,h1-your-domain.zendesk.com,34.225.199.37,tcp,80,http,
-5,h1-your-domain.zendesk.com,34.225.199.37,tcp,443,http,
-6,h1-your-domain.zendesk.com,34.225.199.37,tcp,443,https,1
-7,h1-your-domain.zendesk.com,54.172.126.223,tcp,80,http,
-8,h1-your-domain.zendesk.com,54.172.126.223,tcp,443,http,
-9,h1-your-domain.zendesk.com,54.172.126.223,tcp,443,https,1
+Host,Address,Transport,Port,Service
+h1-your-domain.zendesk.com,34.206.241.1,tcp,80,http
+h1-your-domain.zendesk.com,34.206.241.1,tcp,443,http
+h1-your-domain.zendesk.com,34.206.241.1,tcp,443,https
+h1-your-domain.zendesk.com,34.225.199.37,tcp,80,http
+h1-your-domain.zendesk.com,34.225.199.37,tcp,443,http
+h1-your-domain.zendesk.com,34.225.199.37,tcp,443,https
+h1-your-domain.zendesk.com,54.172.126.223,tcp,80,http
+h1-your-domain.zendesk.com,54.172.126.223,tcp,443,http
+h1-your-domain.zendesk.com,54.172.126.223,tcp,443,https

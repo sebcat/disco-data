@@ -7,7 +7,7 @@ bounty programs.
 How
 ---
 
-subjects/<name>.txt contains a newline separated list of domains that are
+subjects/\<name\>.txt contains a newline separated list of domains that are
 considered to be in scope for testing. Scoping is done on a by-domain
 basis only.
 
@@ -34,11 +34,10 @@ results/
     ...
   ...
   <nameN>/
-    services.csv - Identified services (think open TCP ports for now)
-    comp.csv     - Passively identified components
-    compsvc.csv  - Components to service mappings
-    certs.csv    - Certificate chain information
-    sans.csv     - X.509v3 Subect Alternative Names found in certificates
+    certificates.csv - Certificates found on various services
+    components.csv   - Components found on various services
+    sans.csv         - Distinct SANs found
+    services.csv     - Services found
 ````
 
 

@@ -1,6 +1,0 @@
-Chain,Depth,Subject,Issuer,Not Valid Before,Not Valid After,# of SANs
-1,0,"/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=z.ssl.fastly.net",/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3,Mar 18 18:04:10 2019 GMT,Sep 20 19:37:05 2019 GMT,105
-1,1,/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3,/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA,Aug 19 00:00:00 2015 GMT,Aug 19 00:00:00 2025 GMT,0
-2,0,/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl565691.cloudflaressl.com,/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2,Mar 17 00:00:00 2019 GMT,Sep 23 23:59:59 2019 GMT,3
-2,1,/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2,/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority,Sep 25 00:00:00 2014 GMT,Sep 24 23:59:59 2029 GMT,0
-2,2,/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority,/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root,May 30 10:48:38 2000 GMT,May 30 10:48:38 2020 GMT,0
