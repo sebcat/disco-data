@@ -6,8 +6,8 @@ api.creditkarma.com,2.16.68.79,tcp,443,https
 blog.creditkarma.com,192.0.66.2,tcp,80,http
 blog.creditkarma.com,192.0.66.2,tcp,443,http
 blog.creditkarma.com,192.0.66.2,tcp,443,https
-creditkarma.com,2.23.185.30,tcp,80,http
-creditkarma.com,2.23.185.30,tcp,443,https
+creditkarma.com,84.53.150.99,tcp,80,http
+creditkarma.com,84.53.150.99,tcp,443,https
 help.creditkarma.com,104.16.51.111,tcp,80,http
 help.creditkarma.com,104.16.51.111,tcp,443,http
 help.creditkarma.com,104.16.51.111,tcp,443,https

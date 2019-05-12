@@ -24,10 +24,10 @@ capi.grammarly.com,18.211.120.78,tcp,443,http
 capi.grammarly.com,18.211.120.78,tcp,443,https
 capi.grammarly.com,34.194.112.21,tcp,443,http
 capi.grammarly.com,34.194.112.21,tcp,443,https
-capi.grammarly.com,34.194.201.164,tcp,443,http
-capi.grammarly.com,34.194.201.164,tcp,443,https
-capi.grammarly.com,34.197.144.185,tcp,443,http
-capi.grammarly.com,34.197.144.185,tcp,443,https
+capi.grammarly.com,52.3.176.75,tcp,443,http
+capi.grammarly.com,52.3.176.75,tcp,443,https
+capi.grammarly.com,52.44.24.158,tcp,443,http
+capi.grammarly.com,52.44.24.158,tcp,443,https
 capi.grammarly.com,52.54.27.91,tcp,443,http
 capi.grammarly.com,52.54.27.91,tcp,443,https
 capi.grammarly.com,54.158.74.41,tcp,443,http
@@ -89,7 +89,7 @@ irbis.grammarly.com,52.206.49.88,tcp,443,http
 irbis.grammarly.com,52.206.49.88,tcp,443,https
 irbis.grammarly.com,54.209.190.196,tcp,443,http
 irbis.grammarly.com,54.209.190.196,tcp,443,https
-proofit.com,52.216.171.10,tcp,80,http
+proofit.com,52.216.228.58,tcp,80,http
 subscription.grammarly.com,52.55.112.251,tcp,80,http
 subscription.grammarly.com,52.55.112.251,tcp,443,http
 subscription.grammarly.com,52.55.112.251,tcp,443,https
@@ -117,4 +117,4 @@ www.grammarly.net,54.87.179.5,tcp,443,https
 www.grammarly.net,54.210.203.245,tcp,80,http
 www.grammarly.net,54.210.203.245,tcp,443,http
 www.grammarly.net,54.210.203.245,tcp,443,https
-www.proofit.com,52.216.112.114,tcp,80,http
+www.proofit.com,52.217.0.114,tcp,80,http
