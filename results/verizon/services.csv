@@ -33,8 +33,6 @@ groups.yahoo.com,188.125.94.206,tcp,80,http
 groups.yahoo.com,188.125.94.206,tcp,443,https
 hk.auctions.yahoo.com,124.108.115.81,tcp,80,http
 hk.auctions.yahoo.com,124.108.115.81,tcp,443,https
-hk.auctions.yahoo.com,180.222.102.135,tcp,80,http
-hk.auctions.yahoo.com,180.222.102.135,tcp,443,https
 hk.shop.yahoo.com,106.10.248.141,tcp,80,http
 hk.shop.yahoo.com,106.10.248.141,tcp,443,https
 mail.yahoo.com,188.125.94.204,tcp,80,http

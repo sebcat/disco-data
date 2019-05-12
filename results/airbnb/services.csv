@@ -48,5 +48,5 @@ www.airbnbcitizen.com,104.25.201.10,tcp,443,http
 www.airbnbcitizen.com,104.25.201.10,tcp,443,https
 www.airbnbcitizen.com,104.25.201.10,tcp,8080,unknown
 www.airbnbcitizen.com,104.25.201.10,tcp,8443,unknown
-www.luxuryretreats.com,2.16.68.89,tcp,80,http
-www.luxuryretreats.com,2.16.68.89,tcp,443,https
+www.luxuryretreats.com,104.85.176.27,tcp,80,http
+www.luxuryretreats.com,104.85.176.27,tcp,443,https
