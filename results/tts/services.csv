@@ -119,6 +119,8 @@ idp.fr.cloud.gov,52.61.90.240,tcp,443,http
 idp.fr.cloud.gov,52.61.90.240,tcp,443,https
 inventory.data.gov,34.193.244.109,tcp,80,http
 inventory.data.gov,34.193.244.109,tcp,443,https
+labs.data.gov,34.193.244.109,tcp,80,http
+labs.data.gov,34.193.244.109,tcp,443,https
 login.fr.cloud.gov,96.127.59.2,tcp,80,http
 login.fr.cloud.gov,96.127.59.2,tcp,443,http
 login.fr.cloud.gov,96.127.59.2,tcp,443,https

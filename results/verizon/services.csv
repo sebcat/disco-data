@@ -104,12 +104,12 @@ tw.stock.yahoo.com,98.136.147.14,tcp,80,http
 tw.stock.yahoo.com,98.136.147.14,tcp,443,https
 www.finance.yahoo.com,212.82.100.141,tcp,80,http
 www.finance.yahoo.com,212.82.100.141,tcp,443,https
-www.groups.yahoo.com,212.82.100.150,tcp,80,http
+www.groups.yahoo.com,74.6.136.150,tcp,80,http
 www.tumblr.com,188.125.94.205,tcp,80,http
 www.tumblr.com,188.125.94.205,tcp,443,https
 www.tumblr.com,188.125.94.207,tcp,80,http
 www.tumblr.com,188.125.94.207,tcp,443,https
-www.yahoogroups.com,212.82.100.150,tcp,80,http
+www.yahoogroups.com,74.6.136.150,tcp,80,http
 xa.yimg.com,77.238.185.27,tcp,80,http
 xa.yimg.com,77.238.185.27,tcp,443,https
 yahoogroups.com,74.6.136.150,tcp,80,http

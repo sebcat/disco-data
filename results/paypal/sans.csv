@@ -10,8 +10,12 @@ brainiac.braintree.tools
 braintreegateway.com
 braintreepayments.com
 btufte.braintree.tools
+c.paypal.com
+c6.paypal.com
 ci.braintree.tools
 cidevtools.braintree.tools
+cms.paypal.com
+developer.paypal.com
 developer.venmo.com
 dockerhub.braintree.tools
 drake-lyrics.braintree.tools
@@ -19,6 +23,7 @@ environmentalist.braintree.tools
 ghost.braintree.tools
 grafana-auth.braintree.tools
 grafana.braintree.tools
+history.paypal.com
 jenkinsqa.braintree.tools
 jira.braintree.tools
 jumpman.braintree.tools
@@ -30,6 +35,7 @@ ops-panel.braintree.tools
 ops.venmo.com
 opsweekly-infrastructure.braintree.tools
 opsweekly-triage.braintree.tools
+p.paypal.com
 paypal-apps.com
 paypal-forward.com
 paypal-france.fr
@@ -95,11 +101,14 @@ py.pl
 ratelimits.braintree.tools
 reporting-taskworker-auditor.braintree.tools
 reporting-taskworker-flower.braintree.tools
+t.paypal.com
 thepaypalblog.com
 toby.braintree.tools
 venmo.com
 www.braintreegateway.com
 www.braintreepayments.com
+www.paypal.com
+www.paypalobjects.com
 www.py.pl
 www.venmo.com
 www.xoom.com

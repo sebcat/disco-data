@@ -23,7 +23,7 @@ business.trustpilot.com,13.224.29.50,tcp,443,https
 business.trustpilot.com,13.224.29.121,tcp,80,http
 business.trustpilot.com,13.224.29.121,tcp,443,http
 business.trustpilot.com,13.224.29.121,tcp,443,https
-consumer-auth.trustpilot.com,34.250.48.63,tcp,443,https
+consumer-auth.trustpilot.com,54.154.172.243,tcp,443,https
 emailsignature.trustpilot.com,13.33.47.77,tcp,80,http
 emailsignature.trustpilot.com,13.33.47.77,tcp,443,http
 emailsignature.trustpilot.com,13.33.47.77,tcp,443,https

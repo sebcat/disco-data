@@ -21,8 +21,8 @@ bluebird.flickr.com,87.248.114.11,tcp,80,http
 bluebird.flickr.com,87.248.114.11,tcp,443,https
 bluebird.flickr.com,87.248.116.11,tcp,80,http
 bluebird.flickr.com,87.248.116.11,tcp,443,https
-bluebird.flickr.com,87.248.118.22,tcp,80,http
-bluebird.flickr.com,87.248.118.22,tcp,443,https
+bluebird.flickr.com,87.248.116.12,tcp,80,http
+bluebird.flickr.com,87.248.116.12,tcp,443,https
 bluebird.flickr.com,87.248.118.23,tcp,80,http
 bluebird.flickr.com,87.248.118.23,tcp,443,https
 code.flickr.com,192.0.79.32,tcp,80,http
@@ -54,8 +54,8 @@ parkorbird.flickr.com,87.248.114.11,tcp,80,http
 parkorbird.flickr.com,87.248.114.11,tcp,443,https
 parkorbird.flickr.com,87.248.116.11,tcp,80,http
 parkorbird.flickr.com,87.248.116.11,tcp,443,https
-parkorbird.flickr.com,87.248.118.22,tcp,80,http
-parkorbird.flickr.com,87.248.118.22,tcp,443,https
+parkorbird.flickr.com,87.248.116.12,tcp,80,http
+parkorbird.flickr.com,87.248.116.12,tcp,443,https
 parkorbird.flickr.com,87.248.118.23,tcp,80,http
 parkorbird.flickr.com,87.248.118.23,tcp,443,https
 stage.guce.flickr.com,52.41.9.238,tcp,443,https
