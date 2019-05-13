@@ -91,7 +91,6 @@ paypalobjects.com
 polyglot.braintree.tools
 prometheus.braintree.tools
 puppetdb.braintree.tools
-py.pl
 ratelimits.braintree.tools
 reporting-taskworker-auditor.braintree.tools
 reporting-taskworker-flower.braintree.tools
@@ -100,7 +99,6 @@ toby.braintree.tools
 venmo.com
 www.braintreegateway.com
 www.braintreepayments.com
-www.py.pl
 www.venmo.com
 www.xoom.com
 xoom.com

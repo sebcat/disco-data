@@ -2,12 +2,12 @@ Host,Address,Transport,Port,Service
 api.recarga.com,13.33.47.35,tcp,80,http
 api.recarga.com,13.33.47.35,tcp,443,http
 api.recarga.com,13.33.47.35,tcp,443,https
-api.recarga.com,13.33.47.39,tcp,80,http
-api.recarga.com,13.33.47.39,tcp,443,http
-api.recarga.com,13.33.47.39,tcp,443,https
 api.recarga.com,13.33.47.67,tcp,80,http
 api.recarga.com,13.33.47.67,tcp,443,http
 api.recarga.com,13.33.47.67,tcp,443,https
+api.recarga.com,13.33.47.71,tcp,80,http
+api.recarga.com,13.33.47.71,tcp,443,http
+api.recarga.com,13.33.47.71,tcp,443,https
 api.recarga.com,13.33.47.162,tcp,80,http
 api.recarga.com,13.33.47.162,tcp,443,http
 api.recarga.com,13.33.47.162,tcp,443,https

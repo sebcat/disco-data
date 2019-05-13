@@ -24,8 +24,8 @@ assets.airbnb.com,23.78.51.84,tcp,80,http
 assets.airbnb.com,23.78.51.84,tcp,443,https
 callbacks.airbnb.com,23.78.51.84,tcp,80,http
 callbacks.airbnb.com,23.78.51.84,tcp,443,https
-luxuryretreats.com,104.108.33.63,tcp,80,http
-luxuryretreats.com,104.108.33.63,tcp,443,https
+luxuryretreats.com,23.222.36.134,tcp,80,http
+luxuryretreats.com,23.222.36.134,tcp,443,https
 m.airbnb.com,23.78.51.84,tcp,80,http
 m.airbnb.com,23.78.51.84,tcp,443,https
 next.airbnb.com,23.78.51.84,tcp,80,http
