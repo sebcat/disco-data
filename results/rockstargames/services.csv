@@ -16,7 +16,7 @@ prod.ros.rockstargames.com,192.81.241.100,tcp,80,http
 prod.ros.rockstargames.com,192.81.241.100,tcp,443,https
 prod.telemetry.ros.rockstargames.com,35.162.243.92,tcp,80,http
 prod.telemetry.ros.rockstargames.com,35.167.19.60,tcp,80,http
-prod.telemetry.ros.rockstargames.com,50.112.144.22,tcp,80,http
+prod.telemetry.ros.rockstargames.com,35.167.102.3,tcp,80,http
 prod.telemetry.ros.rockstargames.com,52.40.235.166,tcp,80,http
 rockstarnorth.com,104.255.105.97,tcp,80,http
 socialclub.rockstargames.com,104.255.105.71,tcp,80,http
