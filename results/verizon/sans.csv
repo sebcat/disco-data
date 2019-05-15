@@ -90,6 +90,7 @@ SAN
 *.images.search.yahoo.com
 *.io.yahoo.net
 *.iris.yahoo.com
+*.jarvis.yahoo.com
 *.kino.yahoo.com
 *.knowledge.search.yahoo.com
 *.lifestyle.search.yahoo.com
@@ -193,6 +194,7 @@ SAN
 *.video.search.yahoo.com
 *.video.yahoo.com
 *.virtualstudio.yahoo.com
+*.vzbuilders.com
 *.wc.fantasysports.yahoo.com
 *.wc.yahoodns.net
 *.weather.yahoo.com
@@ -246,7 +248,6 @@ checkout.yahoo.com
 commsdata.api.yahoo.com
 contentindexing--partner-publishing.global.vespa.yahooapis.com
 cricket.yahoo.com
-digits.vzbuilders.com
 downloads.yahoo.com
 embed.tumblr.com
 esportes.yahoo.com

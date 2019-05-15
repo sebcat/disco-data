@@ -44,10 +44,10 @@ spotifyforbrands.com,130.211.46.31,tcp,110,pop3
 spotifyforbrands.com,130.211.46.31,tcp,143,imap
 spotifyforbrands.com,130.211.46.31,tcp,443,https
 spotifyforbrands.com,130.211.46.31,tcp,8080,http
-www.loudr.com,172.217.21.179,tcp,80,http
-www.loudr.com,172.217.21.179,tcp,443,https
-www.loudr.fm,172.217.21.179,tcp,80,http
-www.loudr.fm,172.217.21.179,tcp,443,https
+www.loudr.com,216.58.207.211,tcp,80,http
+www.loudr.com,216.58.207.211,tcp,443,https
+www.loudr.fm,216.58.207.211,tcp,80,http
+www.loudr.fm,216.58.207.211,tcp,443,https
 www.soundtrap.com,104.199.64.106,tcp,80,http
 www.soundtrap.com,104.199.64.106,tcp,443,http
 www.soundtrap.com,104.199.64.106,tcp,443,https
