@@ -2,12 +2,12 @@ Host,Address,Transport,Port,Service
 blockimmo.ch,13.33.23.29,tcp,80,http
 blockimmo.ch,13.33.23.29,tcp,443,http
 blockimmo.ch,13.33.23.29,tcp,443,https
+blockimmo.ch,13.33.23.123,tcp,80,http
+blockimmo.ch,13.33.23.123,tcp,443,http
+blockimmo.ch,13.33.23.123,tcp,443,https
 blockimmo.ch,13.33.23.150,tcp,80,http
 blockimmo.ch,13.33.23.150,tcp,443,http
 blockimmo.ch,13.33.23.150,tcp,443,https
 blockimmo.ch,13.33.23.239,tcp,80,http
 blockimmo.ch,13.33.23.239,tcp,443,http
 blockimmo.ch,13.33.23.239,tcp,443,https
-blockimmo.ch,13.33.23.240,tcp,80,http
-blockimmo.ch,13.33.23.240,tcp,443,http
-blockimmo.ch,13.33.23.240,tcp,443,https
