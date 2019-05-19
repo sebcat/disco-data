@@ -1,6 +1,6 @@
 Host,Address,Transport,Port,Service
-donations.livestream.com,151.101.86.29,tcp,80,http
-donations.livestream.com,151.101.86.29,tcp,443,https
+donations.livestream.com,151.101.38.29,tcp,80,http
+donations.livestream.com,151.101.38.29,tcp,443,https
 livestream.com,151.101.2.29,tcp,80,http
 livestream.com,151.101.2.29,tcp,443,https
 livestream.com,151.101.66.29,tcp,80,http

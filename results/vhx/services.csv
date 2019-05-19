@@ -1,8 +1,8 @@
 Host,Address,Transport,Port,Service
-api.vhx.tv,151.101.84.175,tcp,80,http
-api.vhx.tv,151.101.84.175,tcp,443,https
-embed.vhx.tv,151.101.84.175,tcp,80,http
-embed.vhx.tv,151.101.84.175,tcp,443,https
+api.vhx.tv,151.101.36.175,tcp,80,http
+api.vhx.tv,151.101.36.175,tcp,443,https
+embed.vhx.tv,151.101.36.175,tcp,80,http
+embed.vhx.tv,151.101.36.175,tcp,443,https
 vhx.tv,23.21.160.199,tcp,80,http
 vhx.tv,23.21.160.199,tcp,443,https
 vhx.tv,23.21.247.103,tcp,80,http

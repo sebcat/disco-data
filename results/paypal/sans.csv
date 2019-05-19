@@ -1,4 +1,5 @@
 SAN
+*.paydiant.com
 *.venmo.com
 PAYPAL-DEUTSCHLAND.DE
 PAYPAL-MARKETING.PL
@@ -7,9 +8,16 @@ PAYPAL.COM.MY
 api.venmo.com
 braintreegateway.com
 braintreepayments.com
+c.paypal.com
+c6.paypal.com
+cms.paypal.com
+developer.paypal.com
 developer.venmo.com
+history.paypal.com
 m.xoom.com
 ops.venmo.com
+p.paypal.com
+paydiant.com
 paypal-apps.com
 paypal-forward.com
 paypal-france.fr
@@ -69,10 +77,14 @@ paypal.vn
 paypalbenefits.com
 paypalobjects.com
 py.pl
+ssl507078.cloudflaressl.com
+t.paypal.com
 thepaypalblog.com
 venmo.com
 www.braintreegateway.com
 www.braintreepayments.com
+www.paypal.com
+www.paypalobjects.com
 www.py.pl
 www.venmo.com
 www.xoom.com
