@@ -14,8 +14,14 @@ tribalwars.cash,212.53.172.70,tcp,443,https,nginx/nginx,
 www.igpayment.com,212.72.174.144,tcp,80,http,nginx/nginx,
 www.igpayment.com,212.72.174.144,tcp,443,http,nginx/nginx,
 www.igpayment.com,212.72.174.144,tcp,443,https,nginx/nginx,
-www.innogames.com,151.101.38.217,tcp,443,https,apache/apache,
-www.innogames.com,151.101.38.217,tcp,443,https,php/php,7.1.29
+www.innogames.com,151.101.2.217,tcp,443,https,apache/apache,
+www.innogames.com,151.101.2.217,tcp,443,https,php/php,7.1.29
+www.innogames.com,151.101.66.217,tcp,443,https,apache/apache,
+www.innogames.com,151.101.66.217,tcp,443,https,php/php,7.1.29
+www.innogames.com,151.101.130.217,tcp,443,https,apache/apache,
+www.innogames.com,151.101.130.217,tcp,443,https,php/php,7.1.29
+www.innogames.com,151.101.194.217,tcp,443,https,apache/apache,
+www.innogames.com,151.101.194.217,tcp,443,https,php/php,7.1.29
 www.innogames.de,2a00:1f78:fffd:100::cb,tcp,80,http,nginx/nginx,
 www.innogames.de,2a00:1f78:fffd:100::cb,tcp,443,http,nginx/nginx,
 www.innogames.de,2a00:1f78:fffd:100::cb,tcp,443,https,nginx/nginx,

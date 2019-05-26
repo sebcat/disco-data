@@ -13,6 +13,7 @@ SAN
 *.float.com
 *.forgeofempires.com
 *.grepolis.com
+*.gw-tracker.com
 *.innogames.de
 *.jbpdaily.com
 *.jungledisk.com
@@ -46,6 +47,7 @@ api.production.sohohousedigital.com
 api.vhxqa3.com
 bongbo.ng
 boutik.dev.absolunet.com
+cdn.liveplanet.live
 cdn.oculosshop.com.br
 cdn.tous.com
 cdn.vhxqa3.com
@@ -55,7 +57,6 @@ correlate.one
 crimeonline.com
 d2d.market
 datastreamer.io
-dev.reservebar.com
 digitalage.com.tr
 discover.ricoh.co.uk
 download.marketcircle.com
@@ -91,14 +92,12 @@ production-api.globalforestwatch.org
 psy.is
 psychonautwiki.org
 read.stratixcorp.com
-reservebar.com
 robinpowered.com
 s2.shared.global.fastly.net
 sheknowsmedia.com
 shemedia.com
 shopvcs.com
 stage.adorama.com
-staging.reservebar.com
 static.bandicam.com
 thecourage.com
 theherdnow.com
@@ -114,6 +113,7 @@ www.bongbo.ng
 www.buysmartjapan.com
 www.cretalive.gr
 www.datastreamer.io
+www.dlaguna.com
 www.futurestack.com
 www.futurestack.io
 www.hammarbyfotboll.se
@@ -121,7 +121,6 @@ www.hitc.com
 www.igpayment.com
 www.innogames.com
 www.linuxcloudvps.com
-www.reservebar.com
 www.rosehosting.com
 www.teampassword.com
 www.ubergizmo.com

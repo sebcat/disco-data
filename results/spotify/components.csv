@@ -22,17 +22,9 @@ spotify.com,104.199.240.211,tcp,443,http,nginx/nginx,
 spotify.com,104.199.240.211,tcp,443,https,nginx/nginx,
 spotify.net,35.227.201.204,tcp,80,http,apache/apache,
 spotify.net,35.227.201.204,tcp,443,https,apache/apache,
-spotifyforbrands.com,130.211.46.31,tcp,80,http,canonical/ubuntu,
-spotifyforbrands.com,130.211.46.31,tcp,80,http,nginx/nginx,1.14.0
-spotifyforbrands.com,130.211.46.31,tcp,443,https,canonical/ubuntu,
-spotifyforbrands.com,130.211.46.31,tcp,443,https,nginx/nginx,1.14.0
 www.soundtrap.com,104.199.64.106,tcp,80,http,nginx/nginx,
 www.soundtrap.com,104.199.64.106,tcp,443,http,nginx/nginx,
 www.soundtrap.com,104.199.64.106,tcp,443,https,nginx/nginx,
 www.spotify.com,104.199.64.136,tcp,80,http,nginx/nginx,
 www.spotify.com,104.199.64.136,tcp,443,http,nginx/nginx,
 www.spotify.com,104.199.64.136,tcp,443,https,nginx/nginx,
-www.spotifyforbrands.com,130.211.46.31,tcp,80,http,canonical/ubuntu,
-www.spotifyforbrands.com,130.211.46.31,tcp,80,http,nginx/nginx,1.14.0
-www.spotifyforbrands.com,130.211.46.31,tcp,443,https,canonical/ubuntu,
-www.spotifyforbrands.com,130.211.46.31,tcp,443,https,nginx/nginx,1.14.0

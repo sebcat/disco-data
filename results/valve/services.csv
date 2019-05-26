@@ -1,6 +1,6 @@
 Host,Address,Transport,Port,Service
-api.steampowered.com,23.40.251.157,tcp,80,http
-api.steampowered.com,23.40.251.157,tcp,443,https
+api.steampowered.com,2.19.176.21,tcp,80,http
+api.steampowered.com,2.19.176.21,tcp,443,https
 developer.valvesoftware.com,172.99.115.206,tcp,80,http
 developer.valvesoftware.com,172.99.115.206,tcp,443,http
 developer.valvesoftware.com,172.99.115.206,tcp,443,https
@@ -14,8 +14,8 @@ playartifact.com,23.62.113.19,tcp,80,http
 playartifact.com,23.62.113.19,tcp,443,https
 steamcommunity.com,23.62.130.245,tcp,80,http
 steamcommunity.com,23.62.130.245,tcp,443,https
-store.steampowered.com,23.5.174.107,tcp,80,http
-store.steampowered.com,23.5.174.107,tcp,443,https
+store.steampowered.com,23.38.33.153,tcp,80,http
+store.steampowered.com,23.38.33.153,tcp,443,https
 storefront.steampowered.com,23.62.113.19,tcp,80,http
 storefront.steampowered.com,23.62.113.19,tcp,443,https
 support.steampowered.com,23.62.130.245,tcp,80,http

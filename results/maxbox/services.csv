@@ -1,6 +1,6 @@
 Host,Address,Transport,Port,Service
-api.mapbox.com,52.222.226.61,tcp,80,http
-api.mapbox.com,52.222.226.61,tcp,443,http
-api.mapbox.com,52.222.226.61,tcp,443,https
+api.mapbox.com,54.230.12.81,tcp,80,http
+api.mapbox.com,54.230.12.81,tcp,443,http
+api.mapbox.com,54.230.12.81,tcp,443,https
 www.mapbox.com,151.101.36.143,tcp,80,http
 www.mapbox.com,151.101.36.143,tcp,443,https
